@@ -1,0 +1,21 @@
+
+-Dataframe pelo yahooquery.
+-Selecao dos dados "Tickers" do Dataframe do yahooquery.
+-Avaliar como gerar dados.
+-Dados externos em Dataframe com mesmo padrao de data e tempo do yahooquery.
+-Avaliar ações e indicadores relacionados à vale3.
+-Definir volume e periodo de dados.
+-Definir padroes de compra.
+-Definir padroes de venda.
+-Definir padroes de segurança de venda (com base em dados diarios)
+-Verificar volume de transações conforme a variação, corretagem por transação x lucro.
+-Gerar modelo final e simular.
+-Definir parametros e intervalos que invalidem o modelo (forçando venda).
+
+
+
+
+
+
+
+
